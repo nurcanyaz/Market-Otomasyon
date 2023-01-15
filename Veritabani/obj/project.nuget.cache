@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1CfLDn1+1t8L6tqWdaV4XA2RcjMnVRp2WP/yY2ISILGeuhWKQeKGpzdduAczKow/zDiSWSPTPNq1nbzWo0jqew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Veritabani\\Veritabani\\Veritabani.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
